@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Starlink Manager",
+  "description": "Logiciel complet de gestion pour cybercafé et salle de jeux avec gestion des tarifs en Ariary, minuteurs avec alarme, abonnements et facturation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
